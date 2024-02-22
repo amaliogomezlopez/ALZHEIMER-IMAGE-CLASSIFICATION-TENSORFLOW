@@ -54,8 +54,8 @@ I used Sequential model. We can check the model's architecture here:
 
 # Evaluation
 
-![Metrica Accuracy & Loss](https://i.postimg.cc/76n0hcQV/metri1.png)
-![ROC AUC](https://i.postimg.cc/HLs95TXN/metri22.png)
+![Metrica Accuracy & Loss](https://i.postimg.cc/Hkck8NHN/acc-loss.png)
+![ROC AUC](https://i.postimg.cc/WzZPbB0m/auc.png)
 
 
 - Decreasing Loss: The training loss and validation loss are both decreasing over the epochs. This indicates that the model is learning and improving its ability to make predictions.
